@@ -1,0 +1,85 @@
+Time: 2026-10-04 14:31:51.229 UTC
+Method: POST
+Path: /MajorLogin
+Body Size: 1216 bytes
+
+Headers:
+{
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "authorization": "Bearer",
+  "connection": "Keep-Alive",
+  "content-length": "1216",
+  "content-type": "application/x-www-form-urlencoded",
+  "host": "loginbp.ppmainecoonghj.com",
+  "releaseversion": "OB55",
+  "user-agent": "UnityPlayer/2018.4.12f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
+  "x-ga": "v1 1",
+  "x-ga-sv": "1791124310",
+  "x-unity-version": "2018.4.12f1"
+}
+
+Full Hex Body:
+185376e6142b89a3e77fb0203636f09f87ad7eb26e53abbaf952146294ebebd7fe99570ee7bddcd9c41ab1f56ecf785f5a834bcdd7bb1e7008c302076a9783f2888ddcd6f2a1d022e0f7a21b7522f868dd8392d232cb6fe9d647f37736071ec6983369a910ccd7d3111a6f345a216725cc8f88f1a1597aa6f237c1363c994229d30205345c2d1792e76f8c659d5b9a694a600c3ab98664b3b1cabdda39772e947b6a4eeaf80fb76ba816ddcdfa1cce633e993b28c6599b13a712f14086e2fd7fa1cb51991756e4550420787e2fba372790a8bbaaf8c72df129cf21c5e2b9e7660b928ed236f3dd4f704a887c6f52c1f0925d81267b37f98dbc01de9d52f8bae7be04c0c638af73ff5a671168b3eb06f430d2d36dcd5dbe524e0688baba57bc8c14f96f7e35f9e0951c203cacaf4d1e51dcb36bcf1544f05da2774e1b4578330934a4416b28560a292d07e301bfa428a0e9f239d68ffff2b36a6adb9e47a07773902f6c5bb2185d57c2581bed2591f1f3c82aec48e51215e6bf0b6123cef8212a801f0a4654fe5e0050ee1a75091a74ba59dcfc40905a33cb4b3ad9a360199183257db0321dec20086a05aded1a3a16fd677dd565a4af16679d1915bafc23236d32dbbc0f6f19809280241158330137905855f7579d0267181bde57fc1f19ca95744c502ae514de2c4229fad777d4efe718ce49c16ba859e6764d4f5f8f6f5fc8a813c789236f6b5ed673eea2dada1ccd432a316880a0cb4050dd64e33ea2c4dade4843f0d94db1e34f2e416ec49abe094c426c7425cdddb39833a8bb496d5cee069ade9c359d0e18fe35c10f529311d6921ace7d91384602f09a8d73da5b6a2740de4307365c16d70190d6b37661fee03891cf7fd1c8c31b282c1fe372694c0ace8582604c8e711adfddaa92acf4e5d3220af5b6381e1982d17a5e613f1dcffe88a2a165078d0bc784ef03f4d2e5eab8018e1b52c19324cf220786a48be6d516c379fa43cad30bbf92dc5b6805088875e1b8b5cb54bff22ba2bc6c238665211591ea04300a66c453a3b7207b44a7427c347c0c347a88266c4c2c883993ea69ac31639e302fa598313b514d5decfdda5b1b758a34348e9a66d2f945018504e10f49ec7091fd83dd88a00264401ed6af84b7f1f45eb5dde1a3407f746a6da18c722112f86def995fb15846292cbcfc10c752ce196eea984bc1ef3664b374b3cb4463755fbf25c55f3873553a9623a3c96a1e6d91b04898e8657ca0ff11b0e2c6c372b174d5e22016e3b0377d25754088c707c134945c465456066b2a285b9b940f78c5d0a7b7ec3dfbfe2f9a1f2116cdbe73685991a36aef4733a0cc6118ca25e027cae5f075755cf268fda8406e51d2f1a27f12400e11517221239fb97d87061a9dd2c7627e60b8e68935da0dae636fc82fe0afcc4078860dec767bb4fceb75f5455d96204cadbf56671029427a1c5893fdd3a21a547516c683b28f4a1d8ff9744e5f2e5b268e6babea821762d7d0b5e07ac39b628eba0a314e25d7c0834fdf78af6c91aef95ef5ab3b73a43b6bae3a6827874bcca0c2ffaed5b9773be95c15e6ca97158d5fd5a0ef518c47ed6b5afa87af8d360d6bd4206f580e54b90c321ccba30a14bfa6e977bd20c96b74f5c1662eb88253ef900bdd1d5c5f192b8114890a0318b652f53709d094c55c84202be1d024792fe2f3006d7ebed7d1c8fb0efc1f
+
+
+Decrypted+Decoded Protobuf:
+
+{
+    "3": "2026-10-04 20:01:50",
+    "4": "free fire",
+    "5": 1,
+    "7": "1.132.9",
+    "8": "Android OS 16 / API-36 (BP2A.250605.031.A3_CSNN_V000L1/compiler260813174205)",
+    "9": "Handheld",
+    "11": "WIFI",
+    "12": 1608,
+    "13": 720,
+    "14": "270",
+    "15": "ARM64 FP ASIMD AES | 5606 | 8",
+    "16": 7597,
+    "17": "Adreno (TM) 610",
+    "18": "OpenGL ES 3.2 V@0615.100 (GIT@b82916be04, I507ba793b7, 1754480107) (Date:08/06/25)",
+    "19": "Google|010624fb-a876-4d46-85e6-89c094ce2004",
+    "20": "172.68.91.178",
+    "21": "en",
+    "22": "36c90901ff330600cf262a565ba0e88d",
+    "23": "4",
+    "24": "Handheld",
+    "25": "vivo V2434",
+    "26": "SG",
+    "29": "a81776ffaa0bc923a584db42a48bed6b5f71337aed7fe581aa8a9e9b139274d9",
+    "30": 1,
+    "42": "WIFI",
+    "57": "7428b253defc164018c604a1ebbfebdf",
+    "60": 223252,
+    "61": 129464,
+    "62": 4501,
+    "64": 129592,
+    "65": 223252,
+    "66": 129592,
+    "67": 223252,
+    "73": 3,
+    "74": "/data/app/~~Dcfn2Sg1etFyPbxpL7GErg==/com.dts.freefireth-xCyzAn7ZbooH_VANkNFkig==/lib/arm64",
+    "76": 1,
+    "77": "b8e0cd5e295eee42f5860d3c86e483dd|/data/app/~~Dcfn2Sg1etFyPbxpL7GErg==/com.dts.freefireth-xCyzAn7ZbooH_VANkNFkig==/base.apk",
+    "78": 3,
+    "79": 2,
+    "81": "64",
+    "83": "2019121229",
+    "86": "OpenGLES2",
+    "87": 4095,
+    "88": 4,
+    "92": 10603,
+    "93": "android",
+    "94": "KqsHT2WlAQb6z0hwYhqxdzj6nYroPbLT3Kfa6TuabExrIqmav5iu9c0ftO57j0CwuDI4N9O9rbW0sg/Oz0Fvrhc8rStHU4SV7XnKykSxAtG8AFro",
+    "95": 111207,
+    "96": "{\"cur_rate\":[60,90,120],\"support_etc2\":false}",
+    "99": "4",
+    "100": "4",
+    "102": "D\\\u0010A\u0007[\tV5",
+    "104": 11581,
+    "105": 1,
+    "106": "https://dl.bs.freefiremobile.com/live/ABHotUpdates/|https://core-bs.freefiremobile.com/live/ABHotUpdates/|a4332cb1c1a84e51dd77441e4856ed5a",
+    "107": "1.52e738d6c225490e"
+}
